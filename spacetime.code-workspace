@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "aulas/web"
+		},
+		{
+			"path": "aulas/server"
+		},
+		{
+			"path": "aulas/mobile"
+		}
+	],
+	"settings": {}
+}
